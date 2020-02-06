@@ -1,1 +1,3 @@
 tes git pull
+
+-- added fitur 1, edited text file --
